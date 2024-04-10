@@ -74,7 +74,7 @@ group :test do
 
 end
 
-gem "ahoy_matey", "~> 5.0"
+gem "ahoy_matey", "~> 5.0" # track your analytics/durations/views
 gem "chartkick", "~> 5.0"
 gem "faker", "~> 3.2"
 gem "groupdate", "~> 6.4"
